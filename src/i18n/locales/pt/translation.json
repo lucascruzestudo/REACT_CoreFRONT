@@ -1,5 +1,9 @@
 {
     "welcome": "Bem-vindo",
     "login": "Entrar",
-    "logout": "Sair"
+    "logout": "Sair",
+    "errors": {
+        "unauthorized": "Não autorizado. Por favor, faça o login novamente.",
+        "serverError": "Erro do servidor. Por favor, tente novamente mais tarde."
+    }
 }

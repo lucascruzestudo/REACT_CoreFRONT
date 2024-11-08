@@ -1,6 +1,10 @@
 {
     "welcome": "Welcome",
     "login": "Login",
-    "logout": "Logout"
+    "logout": "Logout",
+    "errors": {
+        "unauthorized": "Unauthorized. Please log in again.",
+        "serverError": "Server error. Please try again later."
+    }
   }
   
